@@ -5,7 +5,7 @@
     { "id": 3, "food": "Indomie", "calory": 100 }
   ],
   "profiles": {
-    "my": {
+    "me": {
       "name": "Dian Hanifudin Subhi",
       "height": 172,
       "weight": 78,
