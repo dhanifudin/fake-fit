@@ -4,7 +4,7 @@
     { "id": 2, "food": "Gado-gado", "calory": 100 },
     { "id": 3, "food": "Indomie", "calory": 100 }
   ],
-  "me": {
+  "profile": {
     "name": "Dian Hanifudin Subhi",
     "gender": "Male",
     "height": 172,
