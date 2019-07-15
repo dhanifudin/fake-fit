@@ -4,7 +4,12 @@
     { "id": 2, "food": "Gado-gado", "calory": 100 },
     { "id": 3, "food": "Indomie", "calory": 100 }
   ],
-  "auth": {
-    "token": "123456789"
+  "profiles": {
+    "my": {
+      "name": "Dian Hanifudin Subhi",
+      "height": 172,
+      "weight": 78,
+      "dob": "1988-06-10"
+    }
   }
 }
